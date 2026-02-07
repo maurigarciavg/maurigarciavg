@@ -5,7 +5,7 @@ I am a **Full-Stack Developer** in training based in Granada, Spain. My professi
 ### 🚀 My Path into Tech
 Currently, I am pivoting my career toward the technology sector while working at **Muziker** in International Customer Service. Managing multiple global markets simultaneously has sharpened my ability to solve complex problems under pressure and communicate across cultures—skills I now apply to writing clean, efficient code.
 
-- 🛠️ **The Bootcamp:** I'm currently immersed in a Full-Stack program, mastering **HTML5, CSS3, JavaScript, and React**.
+- 🛠️ **The Bootcamp:** I'm currently immersed in a Full-Stack program at **[4Geeks Academy](https://github.com/4geeksacademy)**, mastering **HTML5, CSS3, JavaScript, and React**.
 - 🎯 **The Mission:** My goal is to transition into a Software Support or Junior Developer role where I can combine my background in international service with my passion for technology.
 - 🏗️ **Current Projects:** Building interactive web applications (like my current Kanto Pokedex project!) to solidify my understanding of modern frameworks.
 
